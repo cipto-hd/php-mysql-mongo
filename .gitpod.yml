@@ -1,0 +1,8 @@
+image:
+  file: .gitpod.dockerfile
+  
+vscode:
+  extensions:
+    - dsznajder.es7-react-js-snippets
+    - esbenp.prettier-vscode
+    - humao.rest-client
